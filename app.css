@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+#remove-search {
+    background-color: red;
+    font-size: 20px;
+}
